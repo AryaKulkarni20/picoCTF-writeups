@@ -6,7 +6,7 @@ My personal collection of picoCTF challenge writeups and solutions.
 
 | Category | Challenges Solved |
 |---|---|
-| [Cryptography](./Cryptography/) | 5 |
+| [Cryptography](./Cryptography/) | 8 |
 | [Web Exploitation](./Web-Exploitation/) | 0 |
 | [Forensics](./Forensics/) | 14 |
 | [Binary Exploitation](./Binary-Exploitation/) | 0 |
