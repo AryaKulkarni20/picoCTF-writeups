@@ -14,4 +14,4 @@ My personal collection of picoCTF challenge writeups and solutions.
 | [General Skills](./General-Skills/) | 0 |
 
 ##  Tools I Use
-- Python, pwntools, GDB, Ghidra, Wireshark, CyberChef, etc.
+- Python, pwntools, GDB, Ghidra, Wireshark, CyberChef, Java, C etc.
