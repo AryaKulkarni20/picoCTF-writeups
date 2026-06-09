@@ -11,7 +11,7 @@ My personal collection of picoCTF challenge writeups and solutions.
 | [Forensics](./Forensics/) | 14 |
 | [Binary Exploitation](./Binary-Exploitation/) | 4 |
 | [Reverse Engineering](./Reverse-Engineering/) | 3 |
-| [General Skills](./General-Skills/) | 0 |
+| [General Skills](./General-Skills/) | 2 |
 
 ##  Tools I Use
 - Python, pwntools, GDB, Ghidra, Wireshark, CyberChef, Java, C etc.
